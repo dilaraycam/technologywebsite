@@ -1,0 +1,560 @@
+img.techfoto{
+    margin-left: 390;
+    font-family: 'SVN-Gilroy', sans-serif;
+    
+}
+
+p.usd {
+font-family: 'SVN-Gilroy', sans-serif;
+font-size: 24px;
+color:#19B5FE ;
+opacity: 1;
+margin-left: 391;
+}
+img.buton1{
+    margin-left: 391;
+    
+}
+img.buton2{
+    padding-left: 1px;
+}
+h2.textt{
+    margin-left: 391;
+    opacity: 0.4;
+    font-family: 'SVN-GilroyMedium', sans-serif;
+    font-size: 28px;
+}
+h1.text1{
+    margin-left: 391;
+    margin-top: 150px;
+    font-size: 46px;
+    fill: #FFFFFF;
+    font-family: 'SVN-GilroyBold', sans-serif;
+}
+p.textt{
+    margin-left: 391;
+}
+img.product{
+    margin-left: 705;
+    margin-top: 1146;
+    height: 101;
+    width: 509;
+    opacity: 1;
+    padding-top: 100px;
+}
+.card1
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 100px;
+     
+    }
+    .mouse1
+    {
+      position: absolute;
+      top: -55px;
+      left: 50px;
+      padding-top: 100px;
+    }
+.card2
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 100px;
+    }
+    .mouse2
+    {
+      position: absolute;
+      top: -70px;
+      left: 80px;
+      padding-top: 100px;
+    }
+.card3
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 100px;
+    }
+    .mouse3
+    {
+      position: absolute;
+      top: -50px;
+      left: 50px;
+      padding-top: 100px;
+    }
+    .background
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 100px;
+      width: 555;
+    }
+    .icon1
+    {
+      position: absolute;
+      top: -20px;
+      left: 50px;
+      padding-top: 100px;
+    }
+    .life{
+      position: absolute;
+      top: 30px;
+      left: 210px;
+      padding-top: 100px;
+      font-family: 'SVN-GilroySemiBold', sans-serif;
+      font-size: 22px;
+      fill: #FFFFFF;
+      opacity: 1;
+      
+    }
+    .lorem{
+    position: absolute;
+      top: 50px;
+      left: 210px;
+      padding-top: 120px;
+      font-family: 'SVN-Gilroy', sans-serif;
+      font-size: 14px;
+      fill: #FFFFFF;
+      opacity: 1;
+      padding-right: 20px;
+    }
+    .background2
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+    }
+    .icon2
+    {
+      position: absolute;
+      top: -15px;
+      left: 50px;
+      padding-top: 100px;
+    }
+    .price{
+        position: absolute;
+        top: 30px;
+        left: 210px;
+        padding-top: 100px;
+        font-family: 'SVN-GilroySemiBold', sans-serif;
+        font-size: 22px;
+        fill: #FFFFFF;
+        opacity: 1;
+        
+      }
+      .lorem2{
+      position: absolute;
+        top: 50px;
+        left: 210px;
+        padding-top: 120px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        fill: #FFFFFF;
+        opacity: 1;
+        padding-right: 20px;
+      }
+      .background3
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 30px;
+      width: 555;
+    }
+    .icon3
+    {
+      position: absolute;
+      top: -17px;
+      left: 25px;
+      padding-top: 30px;
+     
+    }
+    .free{
+        position: absolute;
+        top: 30px;
+        left: 210px;
+        padding-top: 30px;
+        font-family: 'SVN-GilroySemiBold', sans-serif;
+        font-size: 22px;
+        fill: #FFFFFF;
+        opacity: 1;
+        
+      }
+      .lorem3{
+      position: absolute;
+        top: 50px;
+        left: 210px;
+        padding-top: 42px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        fill: #FFFFFF;
+        opacity: 1;
+        padding-right: 20px;
+      }
+    .background4
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 30px;
+      width: 555;
+    }
+    .icon4
+    {
+      position: absolute;
+      top: -15px;
+      left: 40px;
+      padding-top: 30px;
+    }
+    .support{
+        position: absolute;
+        top: 30px;
+        left: 230px;
+        padding-top: 30px;
+        font-family: 'SVN-GilroySemiBold', sans-serif;
+        font-size: 22px;
+        fill: #FFFFFF;
+        opacity: 1;
+        
+      }
+      .lorem4{
+      position: absolute;
+        top: 50px;
+        left: 230px;
+        padding-top: 42px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        fill: #FFFFFF;
+        opacity: 1;
+        padding-right: 5px;
+      }
+      .gbackground
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+    }
+    .group1
+    {
+      position: absolute;
+      top: 50px;
+      left: 85px;
+      padding-top: 100px;
+    }
+    .gbackground2
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+    }
+    .group2
+    {
+      position: absolute;
+      top: 40px;
+      left: 85px;
+      padding-top: 100px;
+    }
+    .gbackground3
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+    }
+    .group3
+    {
+      position: absolute;
+      top: 40px;
+      left: 85px;
+      padding-top: 100px;
+    }
+    .gbackground4
+    {
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+    }
+    .group4
+    {
+      position: absolute;
+      top: 50px;
+      left: 85px;
+      padding-top: 100px;
+    }
+    .electros{
+      position: absolute;
+      top: 200px;
+      left: 95px;
+      padding-top: 100px;
+      font-size: 14px;
+      font-family: 'SVN-Gilroy', sans-serif;
+      text-align: center;
+    }
+    .tera{
+        position: absolute;
+        top: 200px;
+        left: 110px;
+        padding-top: 100px;
+        font-size: 14px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        text-align: center;
+    }
+    .tc{
+        position: absolute;
+        top: 200px;
+        left: 85px;
+        padding-top: 100px;
+        font-size: 14px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        text-align: center;
+    }
+    .space{
+        position: absolute;
+        top: 200px;
+        left: 120px;
+        padding-top: 100px;
+        font-size: 14px;
+        font-family: 'SVN-Gilroy', sans-serif;
+        text-align: center;
+    }
+    .contacts{
+      position: relative;
+      top: 0;
+      left: 20px;
+      padding-top: 100px;
+      width: 555;
+      font-family: 'SVN-GilroyHeavy', sans-serif;
+      font-size: 80px;
+      color: #19B5FE;
+      opacity: 0.14901960784313725;
+      text-align: center;
+    }
+    .image{
+      position: absolute;
+      margin-top: 50px;
+      width: 147px;
+      height: 493px;
+      opacity: 1;
+    }
+    .mousee{
+      position: relative;
+      margin-top: 20px;
+      left: 90px;
+      width: 670;
+      height: 800;
+    }
+    .some{
+        position: absolute;
+        top: 155px;
+        left: 450px;
+        opacity: 1;
+        font-size: 28px;
+        font-family: 'SVN-GilroySemiBold', sans-serif;
+        text-align: center;
+    }
+    .viewmore {
+        
+        top:0;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+        
+      }
+      .products{
+        position: relative;
+        top: 0;
+        left: 20px;
+        padding-top: 100px;
+        width: 555;
+        font-family: 'SVN-GilroyHeavy', sans-serif;
+        font-size: 80px;
+        color: #19B5FE;
+        opacity: 0.14901960784313725;
+        text-align: center;
+      }
+      .whichtype{
+          position: absolute;
+          top: 155px;
+          left: 400px;
+          opacity: 1;
+          font-size: 28px;
+          font-family: 'SVN-GilroySemiBold', sans-serif;
+          text-align: center;
+      }
+      .services{
+        position: relative;
+        top: 0;
+        left: 20px;
+        padding-top: 100px;
+        width: 555;
+        font-family: 'SVN-GilroyHeavy', sans-serif;
+        font-size: 80px;
+        color: #19B5FE;
+        opacity: 0.14901960784313725;
+        text-align: center;
+      }
+      .provide{
+          position: absolute;
+          top: 155px;
+          left: 390px;
+          opacity: 1;
+          font-size: 28px;
+          font-family: 'SVN-GilroySemiBold', sans-serif;
+          text-align: center;
+      }
+      .members{
+        position: relative;
+        top: 0;
+        left: 20px;
+        padding-top: 100px;
+        width: 555;
+        font-family: 'SVN-GilroyHeavy', sans-serif;
+        font-size: 80px;
+        color: #19B5FE;
+        opacity: 0.14901960784313725;
+        text-align: center;
+      }
+      .powerful{
+          position: absolute;
+          top: 155px;
+          left: 360px;
+          opacity: 1;
+          font-size: 28px;
+          font-family: 'SVN-GilroySemiBold', sans-serif;
+          text-align: center;
+      }
+      .direct{
+        
+        padding-top: 50px;
+        width: 555;
+        font-family: 'SVN-GilroyBold', sans-serif;
+        font-size: 14px;
+        text-align: left;
+        opacity: 1;
+      }
+     
+      .number{
+       
+        opacity:1;
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size:14px;
+        
+      }
+      
+      .feel{
+        font-family: 'SVN-GilroyBold', sans-serif;
+        font-size: 14px;
+        opacity: 1;
+        color:#FFFFFF;
+      }
+      .form-control{
+        opacity:0.2;
+        left: 810;
+        background-color:#FFFFFF;
+        width: 350px;
+        height: 52px;
+      }
+      .form-control2{
+        opacity:0.2;
+        left: 810;
+        background-color:#FFFFFF;
+        width: 900px;
+        height: 160px;
+      }
+     
+      ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        fill:#FFFFFF;
+        opacity: 0.5019607843137255; 
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        text-align:left;
+        padding-top: 0px;
+      }
+      .btn-primary{
+        background: #19B5FE;
+        width: 320;
+        height: 44;
+        opacity: 0.8;
+
+      }
+      button {
+        opacity:1;
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size:14px;
+        padding-bottom: 50px;
+    }
+    .footer{
+      background-color: #111111;
+      opacity: 1;
+     padding-top: 50px;
+    }
+    .showroom{
+      color:#FFFFFF;
+        opacity: 0.5019607843137255; 
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        text-align: left;
+        padding-bottom: 20px;
+    }
+    .new4 {
+      border: 1px solid white;
+      
+    }
+    .copyright{
+      color:#FFFFFF;
+        opacity: 0.5019607843137255; 
+        font-family: 'SVN-Gilroy', sans-serif;
+        font-size: 14px;
+        text-align: center;
+    }
+    .showroom2{
+      color:#FFFFFF;
+        opacity: 0.5019607843137255; 
+        font-family: 'SVN-GilroyBold', sans-serif;
+        font-size: 14px;
+        text-align: left;
+       
+    }
+    .screen{
+      padding-bottom: 200px;
+    }
+    .viewmore2 {
+        
+      top:0;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 60px;
+      
+    }
+    .nav-link{
+      opacity:0.6;
+      color:#FFFFFF;
+      font-family:'SVN-Gilroy', sans-serif;
+      font-size:14px;
+      text-align:left;
+    }
+   
+    .nav-item .a{
+      border: 3px solid #19B5FE;
+    }
+    .nav-item a.active{
+      border-bottom: 3px solid #19B5FE;
+    }
+    
+     
+     
